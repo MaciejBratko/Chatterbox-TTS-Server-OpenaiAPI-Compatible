@@ -1,3 +1,9 @@
+## Added the missing OpenAI compatible API implementation + mp3 handling since both were missing from the original repository.
+
+Everything else is the same as the original. This repository will NOT be maintained.
+
+---
+
 # Chatterbox TTS Server: OpenAI-Compatible API with Web UI, Large Text Handling & Built-in Voices
 
 **Self-host the powerful [Chatterbox TTS model](https://github.com/resemble-ai/chatterbox) with this enhanced FastAPI server! Features an intuitive Web UI, a flexible API endpoint, voice cloning, large text processing via intelligent chunking, and consistent, reproducible voices using built-in ready-to-use voices and a generation seed feature.**
